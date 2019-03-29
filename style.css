@@ -1,0 +1,15 @@
+h1 {
+    position: absolute;
+    left: 250px;
+    top: 300px;
+}
+#answerIsYes {
+    position: absolute;
+    left: 290px;
+    top: 390px;
+}
+#answerIsNo {
+    position: absolute;
+    left: 400px;
+    top: 390px;
+}
